@@ -1,0 +1,4 @@
+cd C:\Program Files (x86)\IntelSWTools\openvino\bin\
+setupvars.bat
+cd C:\Program Files (x86)\IntelSWTools\openvino\deployment_tools\model_optimizer\install_prerequisites
+install_prerequisites.bat
